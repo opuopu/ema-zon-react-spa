@@ -1,0 +1,28 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid black;
+    
+}
+.product-Details{
+    margin-left: 15px;
+}
+.product-Details h5{
+    color: blue;
+    font-size: 16px;
+    font-weight: 500;
+}
+.product-Details .price{
+
+    font-weight: 700;
+}
+.product-Details button{
+   padding:  5px 50px;
+   background-color: orange;
+   border: none;
+  border-radius: 4px;
+   font-size: 16px;
+   margin-bottom: 10px;
+   cursor: pointer;
+
+
+}
